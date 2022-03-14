@@ -26,3 +26,5 @@ public class BasketPage extends ResourcesAndMethods{
             guaranteeButton24.click();
         }
 }
+
+// Hi world!
