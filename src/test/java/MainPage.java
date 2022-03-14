@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class MainPage {
     protected WebDriver driver;
     protected WebDriverWait wait;
+//     TODO first commit 
 
     @FindBy(xpath = "//input[@placeholder='Поиск по сайту']")
     public WebElement inputSearch;
